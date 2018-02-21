@@ -10,3 +10,7 @@ comportamiento de tal entidad pero sin modificar su código fuente.
 # Sustitucion de liskov
 Cada clase que hereda de otra puede usarse como su padre sin necesidad de 
 conocer las diferencias entre ellas.
+![controlador](controlador.jpg)
+![modelo](modelo.jpg)
+![vista](vista.jpg)
+![paquetes](paquetes.jpg)

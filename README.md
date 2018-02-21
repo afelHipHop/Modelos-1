@@ -11,7 +11,7 @@ comportamiento de tal entidad pero sin modificar su código fuente.
 Cada clase que hereda de otra puede usarse como su padre sin necesidad de 
 conocer las diferencias entre ellas.
 # diagramas
+![paquetes](paquetes.jpg)
 ![controlador](controlador.jpg)
 ![modelo](modelo.jpg)
 ![vista](vista.jpg)
-![paquetes](paquetes.jpg)

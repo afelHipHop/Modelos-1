@@ -1,4 +1,8 @@
 # Programa Principios de programacion
+# Nombres:
+Hernan Arenas - 20161020078
+Andres Ramirez - 20161020077
+Kevin Rocha - 20161020086
 # Responsabilidad unica
 establece que cada módulo o clase debe tener responsabilidad sobre
 una sola parte de la funcionalidad proporcionada por el software y
